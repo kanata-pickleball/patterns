@@ -1,4 +1,8 @@
-In pickleball, serve power comes much more from technique than muscle. Think smooth chain reaction, not arm-only strength. Here’s how it really works, step by step:
+In pickleball, serve power comes much more from technique than muscle. Think smooth chain reaction, not arm-only strength. 
+
+![image](https://github.com/user-attachments/assets/6af8b3af-c3b3-4a17-a12a-16c2c551aec5)
+
+Here’s how it really works, step by step:
 
 1. Legs & Ground Force (the biggest source)
 	•	Power starts from the ground up
