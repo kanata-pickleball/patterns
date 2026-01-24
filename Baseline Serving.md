@@ -50,3 +50,6 @@ In pickleball, serve power comes much more from technique than muscle. Think smo
 Simple mental cue
 
 “Push → rotate → whip”
+
+![image](https://github.com/user-attachments/assets/e2c3d3a9-73de-4210-bdd7-ca63d28fefbb)
+
