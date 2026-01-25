@@ -115,6 +115,10 @@ Measure success by consistency, not winners.
 Consistent aiming in pickleball is not about steering the ball.
 It is about letting your **body move forward** and your **elbow guide the swing through the ball**.
 
+Bonus: Eye on the ball
+ - When the ball is on your side of the court, fix your gaze on it and imagine burning a hole in it;  hitting the ball on the sweet spot of your paddle.
+ - When the ball is on your opponent’s side, look for the available clues outside of the flight of the ball.
+
 Aim with your body.  
 Confirm with your follow-through.  
 Trust the motion.
