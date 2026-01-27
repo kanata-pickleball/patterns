@@ -1,4 +1,4 @@
-This executive summary details the "Scientific Method" for mastering the 3rd Shot Drop in pickleball.
+Mastering 3rd Shot Drop in pickleball.
 
 The Objective
 
