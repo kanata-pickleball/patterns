@@ -1,5 +1,5 @@
 🎾 KPC Pickleball Clinic Series
-3-Session Skill Builder Program
+3-Session Skill Builder Program (3 weeks)
 
 Ready to elevate your game? 
 
@@ -19,4 +19,6 @@ including when to attack the out-of-position player.
 Goal: Improve teamwork, court coverage, and tactical awareness.
 
 📍 Hosted by KPC
+
+
 Perfect for 3.5+ players looking to grow with structured, progressive training.
