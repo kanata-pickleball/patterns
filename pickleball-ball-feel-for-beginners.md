@@ -13,16 +13,11 @@ Most beginners grip the paddle too tightly and use the wrong grip type.
 
 - **Recommended grip**: Continental (like holding a hammer)  
   - Thumb and index finger form a "V" that points roughly toward your right shoulder (for right-handers)  
-  - Index knuckle on bevel #2 (if you number the sides of the handle)
+  - Again ... Opt for a continental grip, where you hold the paddle like you're shaking hands with it.
 
 - **Grip pressure**: 4–5 out of 10 (light but secure)  
   A death grip kills feel. A relaxed hand lets you sense the ball better and react with small wrist adjustments.
-
-
-Choose the Right Grip: Opt for a continental grip, where you hold the paddle like you're shaking hands with it.
-
-
-Avoid gripping too tightly-lighten your hold to about a 4-5 out of 10 in pressure. 
+  Remember ... Avoid gripping too tightly-lighten your hold to about a 4-5 out of 10 in pressure. 
 
 A looser grip allows for more wrist flexibility, which is key to generating subtle topspin or slice without forcing the shot.
 • Keep Your Wrist Firm but Flexible: Beginners often flick their wrists too much, leading to erratic shots. 
