@@ -20,6 +20,18 @@ Most beginners grip the paddle too tightly and use the wrong grip type.
 
 **Quick check**: After you hit a shot, can you still easily twist the paddle in your hand? If not, you're gripping too hard.
 
+## - Choose the Right Grip: Opt for a continental grip, where you hold the paddle like you're shaking hands with it. Place your index finger behind the handle for added stability. This setup gives you better leverage and helps absorb the ball's impact without over-swinging.<grok:render card_id="e09f6a" card_type="citation_card" type="render_inline_citation">
+<argument name="citation_id">10</argument>
+</grok:render> Avoid gripping too tightly—lighten your hold to about a 4-5 out of 10 in pressure. A looser grip allows for more wrist flexibility, which is key to generating subtle topspin or slice without forcing the shot.<grok:render card_id="7e3543" card_type="citation_card" type="render_inline_citation">
+<argument name="citation_id">6</argument>
+</grok:render>
+
+- Keep Your Wrist Firm but Flexible: Beginners often flick their wrists too much, leading to erratic shots. Instead, set your wrist in a neutral position and use your elbow to guide the paddle forward. This "elbow push" technique minimizes flips and helps you feel the ball's contact point more precisely.<grok:render card_id="e589f7" card_type="citation_card" type="render_inline_citation">
+<argument name="citation_id">9</argument>
+</grok:render> Practice by shadow swinging: mimic hitting without a ball to get comfortable with the motion.
+
+By focusing on these, you'll start to "feel" the ball's vibration through the paddle, giving you feedback on whether your contact was clean or off-center.
+
 ## 2. Shorten Your Swing – Smaller Is Better for Control
 
 Big tennis-style swings destroy consistency in pickleball.
