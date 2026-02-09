@@ -33,7 +33,7 @@ Big tennis-style swings destroy consistency in pickleball.
 Key principles for beginners:
 
 - **Contact in front of your body** (never let the ball get beside or behind you)
-- **Short backswing** — think 12–18 inches maximum
+- **Short backswing** — think 0-6 inches in most case or maybe 12–18 inches maximum
 - **Punch / push motion** rather than a full tennis swing
 - **Finish compact** — paddle stops near your opposite shoulder, not wrapping around your body
 
