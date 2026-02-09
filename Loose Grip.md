@@ -9,10 +9,10 @@ This “loose” approach, where the handle rests more in your fingers than your
 
 
 # Benefits of a Loose Grip
-•  Enhanced Touch and Feel: A relaxed hold gives you better feedback from the paddle face, helping you apply subtle spin or control the ball’s trajectory without overexerting. ￼
-•  Injury Prevention: By minimizing forearm and wrist tension, you reduce the risk of repetitive strain injuries common in the sport. ￼
-•  Improved Shot Variety: It’s easier to transition between soft volleys (where a loose grip absorbs hard incoming shots) and powerful groundstrokes (tighten just at contact). ￼ ￼
-•  Fewer Errors: Tight grips often cause the ball to rebound too forcefully, sailing out of bounds; looseness keeps shots low and in play. ￼
+- Enhanced Touch and Feel: A relaxed hold gives you better feedback from the paddle face, helping you apply subtle spin or control the ball’s trajectory without overexerting. ￼
+- Injury Prevention: By minimizing forearm and wrist tension, you reduce the risk of repetitive strain injuries common in the sport. ￼
+- Improved Shot Variety: It’s easier to transition between soft volleys (where a loose grip absorbs hard incoming shots) and powerful groundstrokes (tighten just at contact). ￼ ￼
+- Fewer Errors: Tight grips often cause the ball to rebound too forcefully, sailing out of bounds; looseness keeps shots low and in play. ￼
 
 # Techniques to Develop a Loose Grip
 
