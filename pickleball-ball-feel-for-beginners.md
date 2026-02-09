@@ -70,7 +70,7 @@ Best beginner drills to develop feel:
 - Keep paddle up in ready position and just block/absorb the ball
 - Focus: making the ball drop softly into the kitchen instead of popping up
 
-## 5. Learn to "Cradle" the Ball (Absorb Absorb impact & Redirect)
+## 5. Learn to "Cradle" the Ball (Absorb impact & Redirect)
 
 Instead of hitting *at* the ball, imagine catching and redirecting it.
 
