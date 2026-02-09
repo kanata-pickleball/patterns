@@ -1,4 +1,4 @@
-```markdown
+
 # Mastering Pickleball: How Beginners Can Develop Ball Feel and Hit Consistent Returns
 
 If you're new to pickleball, one of the most common frustrations is lack of control. The ball flies long, hits the net, or pops up too high. The good news? Most of these issues come down to not yet having developed proper **"feel"** for the ball.
