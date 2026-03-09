@@ -32,3 +32,15 @@ It builds on the skill-based grouping I suggested earlier while adding a structu
 - **Player Buy-In**: Some might dislike demotion. Fix: Frame it as a "league night" with end-of-session prizes for top tier or most improved.
 
 Overall, this is better than your current King format for mixed skills, as it emphasizes sustained play within levels. Test it for one session, gather feedback, and adjust—maybe drop to 4 per tier if you prefer smaller groups and add a waiting queue for the extras. If you share more details (e.g., exact court availability or session length), I can refine it further.
+
+--------
+
+Tie Breakers (important)
+
+If players tie in points, use:
+
+1️⃣ Head-to-head result
+
+2️⃣ Point differential (if you track score, not recommended)
+
+3️⃣ Random draw / coin flip
