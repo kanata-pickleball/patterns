@@ -44,3 +44,9 @@ If players tie in points, use:
 2️⃣ Point differential (if you track score, not recommended)
 
 3️⃣ Random draw / coin flip
+
+
+© 2026 Kanata Pickleball Club.
+All rights reserved.
+This game format and written rules may not be reproduced without permission.
+
