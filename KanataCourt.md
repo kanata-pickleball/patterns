@@ -1,4 +1,26 @@
-KPC KC tiered round robin system is a solid idea and can definitely work for your group of 15 players with varying skills in the 3.4-3.7 range. 
+# Kanata Court 
+
+In many pickleball sessions, formats like King’s Court help organize play and keep games moving. However, they don’t always give players enough time to compete against others at a similar level before moving up or down.
+
+That’s where Kanata Court comes in.
+
+Kanata Court is a structured pickleball format designed to keep players competing within a similar skill range while still allowing movement between tiers. Instead of constant promotions and demotions after every game, players stay within a tier long enough to play multiple games, build rhythm, and enjoy more balanced competition.
+
+## The goal is simple: better games, better flow, and a more enjoyable experience for everyone on the court.
+
+Developed by local organizers looking to improve session dynamics, the Kanata Court format blends structured rotation with flexibility, creating a system that works well for both recreational and competitive players.
+
+© 2026 Kanata Pickleball Club.
+All rights reserved.
+This game format and written rules may not be reproduced without permission.
+
+---
+
+In the following sections, we’ll explain how the Kanata Court system works and why it may offer a refreshing alternative to traditional court rotation formats.
+
+---
+
+Kanata Court tiered round robin system is a solid idea and can definitely work for your group of 15 players with varying skills in the 3.4-3.7 range. 
 
 It builds on the skill-based grouping I suggested earlier while adding a structured promotion/relegation mechanic, which promotes fairness, competition, and player improvement over time. This format is commonly used in sports like soccer leagues or tennis ladders but adapted for pickleball sessions. It reduces mismatches by keeping similar skills together during the bulk of play, then allows mobility based on results.
 
