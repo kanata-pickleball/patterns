@@ -20,9 +20,7 @@ In the following sections, we’ll explain how the Kanata Court system works and
 
 ---
 
-Kanata Court tiered round robin system is a solid idea and can definitely work for your group of 15 players with varying skills in the 3.4-3.7 range. 
-
-It builds on the skill-based grouping I suggested earlier while adding a structured promotion/relegation mechanic, which promotes fairness, competition, and player improvement over time. This format is commonly used in sports like soccer leagues or tennis ladders but adapted for pickleball sessions. It reduces mismatches by keeping similar skills together during the bulk of play, then allows mobility based on results.
+Kanata Court tiered round robin system builds on the skill-based grouping while adding a structured promotion/relegation mechanic, which promotes fairness, competition, and player improvement over time. This format is commonly used in sports like soccer leagues or tennis ladders but adapted for pickleball sessions. It reduces mismatches by keeping similar skills together during the bulk of play, then allows mobility based on results.
 
 ### Core Setup and How It Works
 - **Tiers and Courts**: Use your 3 courts as Tier 1 (highest skill, e.g., 3.6-3.7 players initially), Tier 2 (mid-level, e.g., 3.5s), and Tier 3 (lower, e.g., 3.4s). This starts with approximate skill matching based on ratings or past performance.
