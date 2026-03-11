@@ -55,7 +55,7 @@ Overall, this is better than your current King format for mixed skills, as it em
 
 --------
 
-Tie Breakers (important)
+### Tie Breakers (important)
 
 If players tie in points, use:
 
