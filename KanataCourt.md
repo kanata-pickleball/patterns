@@ -10,6 +10,10 @@ Kanata Court is a structured pickleball format designed to keep players competin
 
 Developed by local organizers looking to improve session dynamics, the Kanata Court format blends structured rotation with flexibility, creating a system that works well for both recreational and competitive players.
 
+**Authors:**
+- Louie Kwan
+- Pinh Tang
+
 © 2026 Kanata Pickleball Club.
 All rights reserved.
 This game format and written rules may not be reproduced without permission.
